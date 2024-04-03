@@ -13,6 +13,9 @@ export const Bio = {
 
 export const skills = [
   {
+
+
+    
     title: "Frontend",
     skills: [
       // {

@@ -185,7 +185,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D4D0BAQHyJ0kHoaBCfw/company-logo_100_100/0/1689073280505?e=1720051200&v=beta&t=pNWEwUqo8UBPIFZQx0Er7q7C-dwEsKD4S_5DPH9RWV4",
+    img: "https://techavtar.com/wp-content/uploads/2024/01/Techavtar-horizontal-logo.png",
     role: "Flutter Developer Intern",
     company: "Tech Avtar",
     date: "Jan 2024  - Present",
@@ -203,10 +203,10 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D4E0BAQGBs-FMF8cpiQ/company-logo_200_200/0/1689841229780?e=1720051200&v=beta&t=Qs0MvtR4uqJG1iaxlkmpBLs1wCpNiTo8AZt2ZJJFRhE",
+    img: "https://safatech.in/assets/img/safalogo.png",
     role: "Software Developer Intern",
     company: "Safa Tech",
-    date: "Dec 2023 - Present",
+    date: "Dec 2023 - June 2024",
     desc: "Creating an application from scratch using Flutter and NoSQL as backend. \n Working on live application based on cleaning and washiong on sites.",
     skills: [
       "Flutter",
@@ -220,7 +220,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C4D0BAQGd7dsOxK5Uow/company-logo_200_200/0/1630510942238?e=1720051200&v=beta&t=bpGl7OXq45uca6uPMlqOAV_LL_Y28sJaoYnDPVX3e68",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Of8kFRe-cpW0r-GzzOaMSS4LRvAckEp7Ag&usqp=CAU",
     role: "Flutter Developer Intern",
     company: "Aviz Healthcare",
     date: "Dec 2023 - April 2024 (4 Months)",
@@ -230,7 +230,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/C560BAQEMxFCl-NjKkw/company-logo_100_100/0/1630654026888/lykiqlabs_logo?e=1720051200&v=beta&t=uF9T3YoHCGOjxVdmi7zX-xsYteamXNuQ1Vb8btLJyZA",
+    img: "https://lykiq.com/images/l1.jpg",
     role: "Flutter Developer Intern",
     company: "LykiQ Labs Pvt. Ltd.",
     date: "Oct 2023 - April 2024 (6 Months)",
